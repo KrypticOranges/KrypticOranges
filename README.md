@@ -1,6 +1,6 @@
 -  Hi, I’m @KrypticOranges
 -  I’m currently learning about operating system kernels
--  I’m looking to collaborate on nothing so far (too incompetent)
+-  I’m looking to collaborate on nothing so far 
 -  How to reach me ...
 -  Pronouns: ...
 -  Fun fact: nothing
